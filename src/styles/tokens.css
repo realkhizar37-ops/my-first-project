@@ -1,0 +1,49 @@
+/* ==========================================================================
+   AMPLIX ECOM — Luxury Black & Champagne Gold Design System
+   Admin Dashboard — Luxury White & Champagne Gold Design System
+   ========================================================================== */
+:root {
+  /* Public Website Tokens */
+  --color-background: #0B0B0B;
+  --color-background-secondary: #151515;
+  --color-surface: #1C1C1C;
+  --color-surface-elevated: #222222;
+  --color-gold: #D6BD8A;
+  --color-gold-dark: #A88B54;
+  --color-gold-light: #E8D8B5;
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #B5B0A5;
+  --color-border: #37332B;
+
+  /* Admin Dashboard Tokens */
+  --admin-background: #F8F7F3;
+  --admin-surface: #FFFFFF;
+  --admin-primary: #A88B54;
+  --admin-secondary: #D6BD8A;
+  --admin-text: #202020;
+  --admin-muted: #77736C;
+  --admin-border: #E8E3D9;
+
+  /* Semantic Status Colors */
+  --status-success: #4ADE80;
+  --status-warning: #E8D8B5;
+  --status-danger: #F87171;
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Radii & Shadows */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-full: 9999px;
+  --shadow-luxury: 0 24px 60px rgba(0, 0, 0, 0.65);
+  --shadow-gold: 0 10px 30px rgba(214, 189, 138, 0.14);
+  --shadow-admin: 0 6px 24px rgba(32, 32, 32, 0.06);
+
+  /* Layout */
+  --container-max: 1200px;
+  --section-py: 5.5rem;
+  --transition: 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+}

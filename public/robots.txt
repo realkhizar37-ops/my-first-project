@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/login
+
+Sitemap: https://realkhizar37-ops.github.io/my-first-project/sitemap.xml
